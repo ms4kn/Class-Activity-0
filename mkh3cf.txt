@@ -1,0 +1,5 @@
+Mustafa Hotaki
+mkh3cf
+I have taken Introduction to Embedded Computing Systems (ECE 3430) and Advanced Embedded Systems (ECE 6501). I have been a TA for the former and currently TAing the latter.
+Some other related courses I have taken are Operating Systems (CS 4414) and Computer Architetcure and Design (ECE 4435). I have expeirence with C, C++, Java, Python, and VHDL.
+I learned about RTOS concepts in Advanced Embedded Systems (ECE 6501).
