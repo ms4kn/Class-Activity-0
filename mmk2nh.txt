@@ -1,0 +1,3 @@
+My name is Mert Karakas and I am a third-year CPE major. I have taken Intro to Embedded with Professor DeLong. I am interested in IoT projects.
+
+In this course, I am expecting to sharpen my low level embedded skills and get closer to the industry standard. I want to learn more about working in project contraints and methods to optimize my embedded codes in my projects.
