@@ -1,0 +1,8 @@
+Ben Baker - beb4wf
+
+I took the intro to embedded systems class last semester.
+Projects included creating timers, moving motors in specific ways, and creating an electronic level.
+
+I found embedded systems really interesting, but as an electrical engineer major, software isn't
+really my strong point. I'm really hoping to gain a deeper understanding of the software aspects
+of embedded systems in this class.
