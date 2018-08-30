@@ -1,0 +1,4 @@
+Deke Lueker
+dkl3wh
+I took intro to embedded (ECE 3430) and I have also taken two intro level programming classes.  I used C in the past for ECE 3430.
+I hope to gain a better understanding of how embedded systems can be used in real world applications.  I also hope that by using a different family of processors, I will better understand what is standard and what is specific to a certain processor.
