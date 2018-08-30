@@ -1,0 +1,14 @@
+Nayiri Krzysztofowicz, nk9yx
+
+Background:
+I've taken Intro to Embedded (ECE 3430), FPGA Lab (ECE 4501), CS 2150,
+and am currently taking Operating Systems (CS 4414). I've programmed 
+in C++, C, Python, Java, and x86 Assembly. I have little familiarity 
+with computer architecture and no outside of class experience with embedded
+systems.
+
+Interests:
+I am very interested in embedded systems and digital logic, everything
+between transistor-level design and microcontroller programming in C.
+I hope to gain a deeper knowledge of embedded systems in this class, as
+well as experience with microcontroller applications.
