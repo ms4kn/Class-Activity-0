@@ -1,0 +1,4 @@
+Name: Jeffery You
+UVA ID: jy9vm
+Background: I've taken Introduction to Embedded Systems, Operating Systems, and Computer Architecture. Some of the projects I have done include a Simon's Says embedded game, designing a CPU, and writing a shell in C. The programming languages I have used are C/C++, Java, JavaScript, and Python.
+Interests/What to Expect: I like picking up and learning about new CS concepts in full stack development, data science, and hardware. In this course, I hope to become a better computer engineer, improve my programming skills, and learn more real time operating systems.
