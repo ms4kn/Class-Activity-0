@@ -4,7 +4,7 @@ Background:
 I've taken Intro to Embedded (ECE 3430), FPGA Lab (ECE 4501), CS 2150,
 and am currently taking Operating Systems (CS 4414). I've programmed 
 in C++, C, Python, Java, and x86 Assembly. I have little familiarity 
-with computer architecture and outside of class experience with embedded
+with computer architecture and no outside of class experience with embedded
 systems.
 
 Interests:
