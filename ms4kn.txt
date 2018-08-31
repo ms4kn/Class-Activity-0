@@ -1,0 +1,4 @@
+Myles Stremick ms4kn
+I've taken and TA'd for the intro to embedded class. I have also taught Arduino to middle and high schoolers.
+I'm interested in using embedded systems as a way to combine a knowlege of hardware and software. Embedded systems are at an interesting crossroads of the different aspects of computer engineering. I would like to get out of this class the ability to make a project my own. I would like to get the set up for a project, but be able to change the final product to fit my own needs. I would also like to get a project in which we are only given the final requirements, and it is up to us to figure out how to design and build the product. 
+Myles Stremick, ms4kn, https://github.com/ms4kn/Class-Activity-0
